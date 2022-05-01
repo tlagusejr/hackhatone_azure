@@ -9,3 +9,8 @@
 
 ![image](https://user-images.githubusercontent.com/52907198/166167720-09b5acfd-ed8c-4536-8151-e317017a5071.png)
 
+목표: 
+환경:1.안드로이드 앱 
+2. fastapi 서버
+3. azure customvision
+모델은 작물을 구별하는 모델, 작물의 질병을 구별하는 모델 2가지로 분리하며, 여러가지 데이터 증강 기법을 실험할 

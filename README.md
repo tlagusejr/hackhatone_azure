@@ -1,5 +1,8 @@
 # hackhatone_azure
 
+ ![image](https://user-images.githubusercontent.com/52907198/166167924-4cc1d0d9-ec27-4f3a-ac35-f860d78c2f95.png)
+
+ 
  fastapi를 활용한 서버 제작입니다. 
 
  upload.py로 이미지 파일을 업로드, trainer.py로 학습, inference.py로 간단하게 inference학습가능합니다.
